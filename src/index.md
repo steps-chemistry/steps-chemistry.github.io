@@ -3,9 +3,9 @@ layout: base.njk
 title: Home
 ---
 
-# STEPs Math Course
+# STEPs Chemistry Course
 
-Welcome to our high school summer math course covering pre-calculus and differentiation topics. This website contains all the materials you'll need for our classes.
+Welcome to our high school summer chemistry course covering pre-calculus and differentiation topics. This website contains all the materials you'll need for our classes.
 
 ## Course Structure
 
@@ -13,7 +13,7 @@ Welcome to our high school summer math course covering pre-calculus and differen
 <div class="content-card">
 
 ### <i class="fas fa-calendar-alt icon calendar-icon"></i> Course Schedule
-View the complete daily schedule with links to topics, notes, and labs for each class day.
+View the complete daily schedule with links to topics, notes, and assignments for each class day.
 
 [View Schedule →](/schedule/)
 
@@ -31,10 +31,10 @@ Access organized notes for each class covering fundamental concepts in pre-calcu
 
 <div class="content-card">
 
-### <i class="fas fa-flask icon lab-icon"></i> Guided Labs
-Hands-on exploration activities to deepen understanding of mathematical concepts.
+### <i class="fas fa-flask icon lab-icon"></i> Assignments
+Hands-on exploration activities to deepen understanding of chemistry concepts.
 
-[View Labs →](/labs/)
+[View Assignments →](/assignments/)
 
 </div>
 </div>
