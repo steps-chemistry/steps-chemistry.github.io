@@ -24,14 +24,11 @@ Below is the complete schedule for our 7-week summer course (June 29 - August 14
 
 <div id="week-1" class="week-section">
 
-| Day | Date | Topics | Notes link |
-|-----|------|-------------|-----------|
+| Day | Date | Topics | 
+|-----|------|-------------|
 | 1 | Sunday, June 29 | **Program orientation (no class)** |  |
-| 2 | Monday/Tuesday, June 30/July 1 |  Course overview. Probability introduction (meaning of probability), events, sample space, and basic counting rules. | [_lecture 1_]() |
-| 3 | Tuesday, July 1 | Dependent vs independent events and their formal definition. Independence as conditional probability. Venn diagrams. | _lecture 2_ |
-| 4 | Wednesday, July 2 | Descriptive statistics: mean, median, variance, and standard deviation. Applications in real life. | _lecture 3_ |
-| 5 | Thursday, July 3 | **Lab 1**: Toy probability experiment / expectation lab. | _lab 1_ |
-
+| 2/3 | Monday/Tuesday, June/July 30/1 |  Course overview. Math and Physics Fundamentals. |
+| 4/5 | Wednesday/Thursday, July 2/3 | Atomic Structure. |
 
 </div>
 
@@ -39,15 +36,11 @@ Below is the complete schedule for our 7-week summer course (June 29 - August 14
 
 <div id="week-2" class="week-section">
 
-| Day | Date | Topics | Notes link |
-|-----|------|-------------|-----------|
-| 6 | Saturday, July 5 | Formal definition of a function, simple examples of functions (linear, quadratic), how to draw them and how to figure out their domain and range. |  |
-| 7 | Sunday, July 6 | Polynomial functions, their graphs, their domain and range, and their infinity behavior. |  |
-| 8 | Monday, July 7 | Root and rational functions, their graphs, their domain and range, points of discontinuity, and their infinity behavior. |  |
-| 9 | Tuesday, July 8 | Exponential and log functions, their graphs, their domain and range, points of discontinuity, and their infinity behavior. |  |
-| 10 | Wednesday, July 9 | Operations on functions. Transformations: shifting, squeezing, reflecting, and composing functions. |  |
-| 11 | Thursday, July 10 | **Lab 2**: Function plotting lab (Desmos/Geogebra). |  |
-| - | Friday, July 11 | **No Class** |  |
+| Day | Date | Topics | 
+|-----|------|-------------|
+| 6/7 | Saturday/Sunday, July 5/6 | Periodic table, Lewis Diagrams, and VSEPR. |  
+| 8/9 | Monday/Tuesday, July 7/8 | Inter Molecular Forces, Properties of Substances, Chromatography, Distillation and Spectroscopy. |  
+| 10/11 | Wednesday/Thursday, July 9/10 | Stoichiometry, Yield and Compound Formation. |  
 
 </div>
 
@@ -55,15 +48,12 @@ Below is the complete schedule for our 7-week summer course (June 29 - August 14
 
 <div id="week-3" class="week-section">
 
-| Day | Date | Topic | Notes link |
-|-----|------|-------------|-----------|
-| 12 | Saturday, July 12 | Operations on functions (continued). Inverse functions and implicit vs. explicit functions. |  |
-| 13 | Sunday, July 13 | **Review Quiz Session 1** (Probability and Functions) |  |
-| 14 | Monday, July 14 | Introduction of discontinuities, discontinuities in graphs. Desmos exercises. |  |
-| 15 | Tuesday, July 15 | Formal definition of discontinuities, removable vs essential discontinuities, and various functions behaviors. |  |
-| 16 | Wednesday, July 16 | Introduction to limits, limits on graphs, and limits of infinity. |  |
-| 17 | Thursday, July 17 | Introductory limits problems and exercises. |  |
-| - | Friday, July 18 | **No Class** |  |
+| Day | Date | Topic | 
+|-----|------|-------------|
+| 12/13 | Saturday/Sunday, July 12/13 | Continuum Hypothesis, Kinetic Molecular Theory, Ideal Gas Law, and Equations of State. |  
+| 14/15 | Monday/Tuesday, July 14/15 | First Law, Enthalpies, Heat of Reaction, and Hess' Law. |  
+| 16/17 | Wednesday/Thursday, July 16/17 | Conduction, Convection, Radiation, and Specific Heat Capacity. |  
+
 
 </div>
 
@@ -71,15 +61,12 @@ Below is the complete schedule for our 7-week summer course (June 29 - August 14
 
 <div id="week-4" class="week-section">
 
-| Day | Date | Topic | Notes link |
-|-----|------|-------------|-----------|
-| 18 | Saturday, July 19 | Formal definition of limits, laws of limits (addition/multiplication), and examples on previous functions (could also add step function). |  |
-| 19 | Sunday, July 20 | Laws of limits continued. More examples and problems. |  |
-| 20 | Monday, July 21 | Existence of limits, one sided limits, and infinity limits. |  |
-| 21 | Tuesday, July 22 | Squeeze Theorem. Intermediate Value Theorem. Examples and Applications. |  |
-| 22 | Wednesday, July 23 | **Lab 3**: Limits lab. Case study of $\sin(\frac{1}{x})$, and guided exploration of $\epsilon-\delta$ definition of limits. |  |
-| 23 | Thursday, July 24 | **Review Quiz Session 2** (Limits and Continuity) |  |
-| - | Friday, July 25 | **No Class** |  |
+| Day | Date | Topic | 
+|-----|------|-------------|
+| 18/19 | Saturday/Sunday, July 19/20 | Intro to Kinetics, Arrhenius Law, Activation Energy, and Steady State Approximation. |  
+| 20/21 | Monday/Tuesday, July 21/22 | Law of Mass Action, Factors Affecting Rates (Catalysts) and Radioactive Decay. |  
+| 22/23 | Wednesday/Thursday, July 23/24 | Reversible Reactions, Equilibrium, and Equilibrium Constants and Le Chatelier. |  
+
 
 </div>
 
@@ -87,15 +74,12 @@ Below is the complete schedule for our 7-week summer course (June 29 - August 14
 
 <div id="week-5" class="week-section">
 
-| Day | Date | Topic | Notes link |
-|-----|------|-------------|-----------|
-| 24 | Saturday, July 26 | Derivatives Introduction 1: Derivatives as rate of change, connections to real-life examples. |  |
-| 25 | Sunday, July 27 | Derivatives Introduction 2: Derivatives as slopes of functions, connections to real-life examples. |  |
-| 26 | Monday, July 28 | Derivatives Introduction 3: Formal algebraic definition of derivatives. Calculate derivatives of simple functions (linear/quadratic). |  |
-| 27 | Tuesday, July 29 | **Lab 4**: Derivatives Lab 1. Guided examples of various important derivatives (e.g. $x^n, \frac{1}{x^n},e^x,\ln(x)$). |  |
-| 28 | Wednesday, July 30 | Derivatives rules 1: addition, multiplication, constant multiple, power rule, and many examples. |  |
-| 29 | Thursday, July 31 | Derivatives rules 2: division, show it as another form of multiplication and many examples involving polynomials, rational, and root functions. |  |
-| - | Friday, August 1 | **No Class** |  |
+| Day | Date | Topic | 
+|-----|------|-------------|
+| 24/25 | Saturday/Sunday, July 26/27 | Acids and Bases, Bronsted-Lowry,and  Ionic Equations. |  
+| 26/27 | Monday/Tuesday, July 28/29 | pH and pOH, Conjugates and Buffers. |  
+| 28/29 | Wednesday/Thursday, July 30/31 | Redox and Oxidation numbers. |  
+
 
 </div>
 
@@ -103,15 +87,12 @@ Below is the complete schedule for our 7-week summer course (June 29 - August 14
 
 <div id="week-6" class="week-section">
 
-| Day | Date | Topic | Notes link |
-|-----|------|-------------|-----------|
-| 30 | Saturday, August 2 | Derivatives rules 3: chain rule, examples and problems. |  |
-| 31 | Sunday, August 3 | Derivatives in real life. Derivatives role in optimization problems. Fence perimeter/area and factory production problems. |  |
-| 32 | Monday, August 4 | **Lab 5**: Derivates Lab 2. Guided example of an elaborate optimization problem. |  |
-| 33 | Tuesday, August 5 | Derivatives and graphs of functions. Derivatives use to understand behavior of functions. First and second derivative tests. |  |
-| 34 | Wednesday, August 6 | Trigonometric functions derivatives. Geometrical proof of $\frac{d}{dx} \sin(x)$. problems and examples. |  |
-| 35 | Thursday, July 31 | **Review Quiz Session 3** (Derivatives) |  |
-| - | Friday, August 8 | **No Class** |  |
+| Day | Date | Topic | 
+|-----|------|-------------|
+| 30/31 | Saturday/Sunday, August 2/3 | The Second Law of Thermodynamics and Gibbs Free Energy. |  
+| 32/33 | Monday/Tuesday, August 4/5 | Galvanic Cell, Electrolysis and Nernst Equation. |  
+| 34/35 | Wednesday/Thursday, August 6/7 | Intro to Organic, Alkanes, Alkenes, Alkynes, Isomers: Structural and Optical. |  
+
 
 </div>
 
@@ -119,15 +100,12 @@ Below is the complete schedule for our 7-week summer course (June 29 - August 14
 
 <div id="week-7" class="week-section">
 
-| Day | Date | Topic | Notes link |
-|-----|------|-------------|-----------|
-| 36 | Saturday, August 9 | L'hopital's rule, Mean Value Theorem, and applications. |  |
-| 37 | Sunday, August 10 | Implicit differentiation, differentiability vs. continuity. |  |
-| 38 | Monday, August 11 | **Lab 6**: Derivates Lab 3. Related-rates problem. |  |
-| 39 | Tuesday, August 12 | Inverse of derivatives. Brief introduction to integrals. |  |
-| 40 | Wednesday, August 13 | Review of graph sketching. |  |
-| 41 | Thursday, August 14 | Review of calculus concepts. |  |
-| - | Friday, August 15 | **No Class** |  |
+| Day | Date | Topic | 
+|-----|------|-------------|
+| 36/37 | Saturday/Sunday, August 9/10 | Functional Groups; Alcohols, Ethers, Aldehydes, Ketones, Carboxylic Acids, Esters and Amines. |  
+| 38/39 | Monday/Tuesday, August 11/12 | Addition, Cracking, Nucleophiles and Electrophiles. |  
+| 40/41 | Wednesday/Thursday, August 13/14 | Interactive Q/A and Review. |  
+
 
 </div>
 
