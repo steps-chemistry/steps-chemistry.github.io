@@ -5,7 +5,7 @@ title: Home
 
 # STEPs Chemistry Course
 
-Welcome to our high school summer chemistry course covering pre-calculus and differentiation topics. This website contains all the materials you'll need for our classes.
+Welcome to our high school summer chemistry course covering first-year university topics. This website contains all the materials you'll need for our classes.
 
 ## Course Structure
 
@@ -13,7 +13,7 @@ Welcome to our high school summer chemistry course covering pre-calculus and dif
 <div class="content-card">
 
 ### <i class="fas fa-calendar-alt icon calendar-icon"></i> Course Schedule
-View the complete daily schedule with links to topics, notes, and assignments for each class day.
+View the complete daily schedule with links to topics and notes for each class day.
 
 [View Schedule →](/schedule/)
 
@@ -22,7 +22,7 @@ View the complete daily schedule with links to topics, notes, and assignments fo
 <div class="content-card">
 
 ### <i class="fas fa-book icon book-icon"></i> Lecture Notes
-Access organized notes for each class covering fundamental concepts in pre-calculus and early calculus.
+Access organized notes for each class covering topics.
 
 [View Notes →](/notes/)
 
@@ -31,8 +31,8 @@ Access organized notes for each class covering fundamental concepts in pre-calcu
 
 <div class="content-card">
 
-### <i class="fas fa-flask icon lab-icon"></i> Assignments
-Hands-on exploration activities to deepen understanding of chemistry concepts.
+### <i class="fas fa-edit icon assignments-icon"></i> Assignments
+Problem questions to deepen understanding of chemistry concepts.
 
 [View Assignments →](/assignments/)
 
@@ -102,7 +102,7 @@ Hands-on exploration activities to deepen understanding of chemistry concepts.
     color: #28a745;
 }
 
-.exercise-icon {
+.assignments-icon {
     color: #ffc107;
 }
 
