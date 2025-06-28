@@ -1,7 +1,7 @@
 {
-  "name": "steps-math-course",
+  "name": "steps-chemistry-course",
   "version": "1.0.0",
-  "description": "Summer math course website with pre-calculus and differentiation topics",
+  "description": "Summer chemistry course website ",
   "scripts": {
     "build": "eleventy",
     "dev": "eleventy --serve",
