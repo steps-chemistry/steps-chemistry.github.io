@@ -3,46 +3,14 @@ layout: base.njk
 title: Topics
 ---
 
-# Daily Topics
+# Class Material
 
-Here you'll find organized notes for each class session covering probability and statistics, functions and graphs, continuity, limits, and differentiation concepts.
+## Lecture Notes
 
-## Probability and Statistics Topics
+- Ahmed: [Drive Folder](https://drive.google.com/drive/folders/1PBxwa8MY73BGhuqBJuC_Cb8iA7C0miFV?usp=drive_link)
+- Albaraa:
+- Saud:
 
-{% for topic in collections.topics %}
-{% if topic.data.category == "probability" %}
-- [{{ topic.data.title }}]({{ topic.url }}) - {{ topic.data.description }}
-{% endif %}
-{% endfor %}
+## Readings
 
-## Functions and Graphs Topics
-
-{% for topic in collections.topics %}
-{% if topic.data.category == "functions" %}
-- [{{ topic.data.title }}]({{ topic.url }}) - {{ topic.data.description }}
-{% endif %}
-{% endfor %}
-
-## Continuity Topics
-
-{% for topic in collections.topics %}
-{% if topic.data.category == "continuity" %}
-- [{{ topic.data.title }}]({{ topic.url }}) - {{ topic.data.description }}
-{% endif %}
-{% endfor %}
-
-## Limits Topics
-
-{% for topic in collections.topics %}
-{% if topic.data.category == "limits" %}
-- [{{ topic.data.title }}]({{ topic.url }}) - {{ topic.data.description }}
-{% endif %}
-{% endfor %}
-
-## Differentiation Topics
-
-{% for topic in collections.topics %}
-{% if topic.data.category == "differentiation" %}
-- [{{ topic.data.title }}]({{ topic.url }}) - {{ topic.data.description }}
-{% endif %}
-{% endfor %}
+[Additional Readings Drive](https://drive.google.com/drive/folders/156dAGEOw9P2SK8L9Af383A31cSxjeQay?usp=drive_link)
