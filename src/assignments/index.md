@@ -9,13 +9,13 @@ title: Labs
 
 - Ahmed: [Homeworks](https://drive.google.com/drive/folders/1oQDOkixsTb5uNlfrv1UJZkSZqZ3OBJ2F?usp=drive_link)
 - Albaraa:
-- Saud:
+- Saud: [Homeworks](https://drive.google.com/drive/folders/1XZjC3IKEvetmYp4-l4mcHAWXSOHipvng)
 
 ## Quizzes
 
 - Ahmed: [Quizzes](https://drive.google.com/drive/folders/1DqImSe4a_64i-BM75TXTPGejhxLAE5kJ?usp=drive_link)
 - Albaraa:
-- Saud:
+- Saud: [Quizzes](https://drive.google.com/drive/folders/1XNT0JLQzaiaKp4fOHnzM5T_rjsxJbLXt)
 
 ## Exams
 
